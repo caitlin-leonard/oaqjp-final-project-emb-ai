@@ -28,3 +28,10 @@ python server.py
 ```
 
 Then open http://localhost:5000 in your browser.
+
+## Built With
+
+- Python
+- Flask
+- Watson NLP (embeddable AI library)
+- HTML / JavaScript
